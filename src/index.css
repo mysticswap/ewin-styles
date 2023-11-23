@@ -106,3 +106,15 @@ p {
 .mystic_sdk_outlined-btn {
   width: 140px !important;
 }
+
+.mystic_sdk_listing_screen_swap_icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px !important;
+  height: 30px !important;
+}
+
+.sdk_wrapper {
+  margin-bottom: 2rem;
+}
