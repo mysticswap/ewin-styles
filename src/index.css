@@ -118,3 +118,12 @@ p {
 .sdk_wrapper {
   margin-bottom: 2rem;
 }
+
+.mystic_sdk_everyone,
+.mystic_sdk_panel_top p {
+  margin: 1rem 0 !important;
+}
+
+.mystic_sdk_nfts_accordion_title p {
+  margin: 10px 0 !important;
+}
