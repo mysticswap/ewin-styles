@@ -102,3 +102,7 @@ p {
 .mystic_sdk_holder_title {
   margin: 0.67em 0;
 }
+
+.mystic_sdk_outlined-btn {
+  width: 140px !important;
+}
